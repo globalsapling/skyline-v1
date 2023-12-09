@@ -148,7 +148,6 @@ const App = () => {
   return (
     <div className="mainContainer">
       <div className="dataContainer">
-        <img src={coverImage} alt="Cover" className="coverImage" />
         <div className="header">
         🧭 Welcome to Skyline! 
         </div>
